@@ -1,5 +1,6 @@
 package com.example.pretemuan9.ui.theme
 
+import android.app.PictureInPictureUiState
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -29,12 +30,15 @@ import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
 import com.example.pretemuan9.R
+import com.example.pretemuan9.data.DataMobile
+
 
 
 @Composable
 fun TampilData(
-    ){
+    contactUiState: DataMobile,
+    onBackButtonClicked:()->Unit
+){
 
 }
