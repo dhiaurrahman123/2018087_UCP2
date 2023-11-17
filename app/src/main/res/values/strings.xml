@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pretemuan 9</string>
+    <string name="nama">Nama Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="konsent">Konsentrasi </string>
+    <string name="jdl_skripsi">Judul Skripsi</string>
+    <string name="dosen1">Dosen Pembimbing 1 </string>
+    <string name="doesn2">Dosen Pembimbing 2</string>
+    <string name="haris">Haris Setiawan</string>
+    <string name="aprilia">Aprilia K</string>
+    <string name="cahya">Cahya D</string>
+    <string name="lanjut">Next</string>
+    <string name="kembali">Back</string>
+</resources>
